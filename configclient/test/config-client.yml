@@ -1,0 +1,6 @@
+server:
+  port: 8095
+
+nnn: hui
+  
+ message=Hello!
