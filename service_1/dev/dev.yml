@@ -1,0 +1,6 @@
+server:
+  port: 8094
+
+nnn: hui
+  
+  message=Hello dev!
